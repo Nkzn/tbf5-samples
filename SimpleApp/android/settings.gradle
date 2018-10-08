@@ -1,0 +1,3 @@
+rootProject.name = 'SimpleBbs'
+
+include ':app'
